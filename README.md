@@ -1,5 +1,5 @@
 # My-First-Plugin
-https://img.shields.io/github/license/arpangreat/My-First-Plugin
+[![GitHub license](https://img.shields.io/github/license/arpangreat/My-First-Plugin)](https://github.com/arpangreat/My-First-Plugin/blob/master/LICENSE)
 ## This is my First Nvim Plugin. 
 
 ### Special thanks to 
