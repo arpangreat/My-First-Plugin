@@ -10,4 +10,6 @@
   
   #### Subscribe and like him for great Vim Tutorial Videos. [ThePrimeagen YouTube Channel](https://www.youtube.com/c/ThePrimeagen)
   
+  ## Not sure when will be continued
+  
 ### Depreciated
